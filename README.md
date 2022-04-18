@@ -1,1 +1,1 @@
-# This Project Deals with the Intrusion detection Module
+# This Project Deals with Edge AI Paradigam Project
